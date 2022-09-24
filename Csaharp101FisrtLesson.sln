@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csaharp101FisrtLesson", "Csaharp101FisrtLesson\Csaharp101FisrtLesson.csproj", "{65FDEECE-9357-47CB-844A-63313417F438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csaharp101FisrtLesson", "Csaharp101FisrtLesson\Csaharp101FisrtLesson.csproj", "{65FDEECE-9357-47CB-844A-63313417F438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatörler", "Operatörler\Operatörler.csproj", "{93703F65-BA05-4AC1-AB23-B890154809A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{65FDEECE-9357-47CB-844A-63313417F438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65FDEECE-9357-47CB-844A-63313417F438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65FDEECE-9357-47CB-844A-63313417F438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93703F65-BA05-4AC1-AB23-B890154809A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93703F65-BA05-4AC1-AB23-B890154809A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93703F65-BA05-4AC1-AB23-B890154809A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93703F65-BA05-4AC1-AB23-B890154809A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
