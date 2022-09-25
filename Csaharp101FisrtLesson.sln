@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csaharp101FisrtLesson", "Csaharp101FisrtLesson\Csaharp101FisrtLesson.csproj", "{65FDEECE-9357-47CB-844A-63313417F438}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatörler", "Operatörler\Operatörler.csproj", "{93703F65-BA05-4AC1-AB23-B890154809A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatörler", "Operatörler\Operatörler.csproj", "{93703F65-BA05-4AC1-AB23-B890154809A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tip-Donusumleri", "tip-donusumleri\Tip-Donusumleri.csproj", "{CF418920-9B6E-45C2-921D-FF24A919D9FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{93703F65-BA05-4AC1-AB23-B890154809A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93703F65-BA05-4AC1-AB23-B890154809A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93703F65-BA05-4AC1-AB23-B890154809A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF418920-9B6E-45C2-921D-FF24A919D9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF418920-9B6E-45C2-921D-FF24A919D9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF418920-9B6E-45C2-921D-FF24A919D9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF418920-9B6E-45C2-921D-FF24A919D9FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
